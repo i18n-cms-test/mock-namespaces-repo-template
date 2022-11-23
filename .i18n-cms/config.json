@@ -1,0 +1,9 @@
+{
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "fileType": "json",
+  "pattern": "src/feature/:ns/locales/:lng",
+  "defaultLanguage": "en"
+}
